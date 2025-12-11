@@ -6,8 +6,8 @@
 
 ### **BSIT – 3rd Year • Caraga State University – Cabadbaran Campus**
 
-📱 *Aspiring Flutter & Mobile App Developer*  
-☁️ *Future Cloud Engineer*  
+📱 *Aspiring Flutter & Mobile App Developer*  \
+☁️ *Future Cloud Engineer*  \
 🇵🇭 Philippines
 
 ---
@@ -49,7 +49,7 @@ Hi! I’m **Mark Ellazo**, a passionate IT student who loves building systems, l
 
 # 📫 **Contact Me**
 
-📧 **[mark.ellazo@csucc.edu.ph](mailto:mark.ellazo@csucc.edu.ph)**  
+📧 **[mark.ellazo@csucc.edu.ph](mailto:mark.ellazo@csucc.edu.ph)**  \
 💼 **github.com/Markspecsx**
 
 ⭐ *Thanks for visiting my profile — let’s build something amazing!*
@@ -86,24 +86,29 @@ Hi! I’m **Mark Ellazo**, a passionate IT student who loves building systems, l
 
 ---
 
-# 📊 **GitHub Stats**
+## 📌 Top Repositories
 
-**GitHub Stats**
+<p align="center">
+<a href="https://github.com/Markspecsx/ITE20_Ellazo_Whale_Classification_FinalProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Markspecsx&repo=ITE20_Ellazo_Whale_Classification_FinalProject&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true" width="45%"/></a>
+<a href="https://github.com/Markspecsx/Restaurant-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Markspecsx&repo=Restaurant-Management-System&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true" width="45%"/></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=MarkspecsIT120\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=MarkspecsIT120\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkspecsIT120\&theme=dark\&hide_border=false\&layout=compact)
-
+<img src="https://github-readme-stats.vercel.app/api?username=MarkspecsIT120&theme=dark&show_icons=true&hide_border=false" />
+<br><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=MarkspecsIT120&theme=dark&hide_border=false" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkspecsIT120&theme=dark&layout=compact&hide_border=false" />
 </div>
 
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=MarkspecsIT120\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=MarkspecsIT120&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 <!-- Clean aesthetic version crafted by ChatGPT for Mark Ellazo -->
