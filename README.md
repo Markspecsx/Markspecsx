@@ -35,6 +35,25 @@ Hi! I’m **Mark Ellazo**, a passionate IT student who loves building systems, l
 * 🧠 System architecture
 * 🗄️ Database optimization
 * 🔌 APIs & backend integration
+## 🧩 Recent Projects
+
+> 📌 *This section will showcase my latest GitHub repositories.*
+
+<!-- 🔽 PLACE YOUR PINNED REPOSITORIES HERE 🔽 -->
+
+<!--
+Example:
+
+<a href="https://github.com/USERNAME/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME&theme=dark&hide_border=true" />
+</a>
+-->
+
+<!-- 🔼 END RECENT PROJECTS 🔼 -->
+
+---
+
+## 🛠️ Languages & Tools
 
 ---
 
