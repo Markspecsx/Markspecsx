@@ -44,9 +44,11 @@ Hello! I’m **Mark Ellazo**, an Information Technology student with a strong in
 https://github.com/Markspecsx/IT20_Full_code_Final_project
 
 ## 🧩 Assets & Resources
+- 📱 IT20 FINAL PROJECT MOBILE APPLICATION DEVELOPMENT & IMAGE CLASSIFICATION
 https://github.com/Markspecsx/Ellazo_Football_club_Classification_FinalProject
 
 ## 🖼️ Project Screenshots
+- 📱 IT20 FINAL PROJECT MOBILE APPLICATION DEVELOPMENT & IMAGE CLASSIFICATION
 https://github.com/Markspecsx/Project_Screenshots
 
 ---
