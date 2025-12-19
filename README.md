@@ -43,29 +43,7 @@ Hello! I’m **Mark Ellazo**, an Information Technology student with a strong in
 https://github.com/Markspecsx/IT20_Full_code_Final_project
 
 ## 🖼️ Project Screenshots
-
-<p align="center">
-
-<img src="![photo_2025-12-19_21-09-02](https://github.com/user-attachments/assets/9995c467-8ffe-45b8-b934-5f6ec241f61b)
-" width="300" />
-<img src="![photo_2025-12-19_21-09-04](https://github.com/user-attachments/assets/bc1474c8-12b0-49f7-8bdf-25c030cfcd6b)
-" width="300" />
-<img src="![photo_2025-12-19_21-09-13](https://github.com/user-attachments/assets/bec33080-6d57-42a2-b003-cf2bebcc66f8)
-" width="300" />
-
-<img src="![photo_2025-12-19_21-09-06](https://github.com/user-attachments/assets/a39fcd57-1fbc-41fb-a773-bbaf47920f53)
-" width="300" />
-<img src="![photo_2025-12-19_21-09-16](https://github.com/user-attachments/assets/dd8c0284-5dfa-404c-9568-b4c87828ec60)
-" width="300" />
-<img src="![photo_2025-12-19_21-09-14](https://github.com/user-attachments/assets/ec30a9a2-9c21-4b6d-91c7-36a4e09b4b1b)
-" width="300" />
-
-<img src="![photo_2025-12-19_21-09-10](https://github.com/user-attachments/assets/ea3bb6c7-478c-4e80-b514-6ea28f4e5ddd)
-" width="300" />
-<img src="![photo_2025-12-19_21-09-08](https://github.com/user-attachments/assets/3818a24a-dbb5-4f4a-a223-66c901f68616)
-" width="300" />
-
-</p>
+https://github.com/Markspecsx/Project_Screenshots
 
 ---
 
