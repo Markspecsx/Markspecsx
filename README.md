@@ -40,19 +40,7 @@ Hello! I’m **Mark Ellazo**, an Information Technology student with a strong in
 ---
 
 ## 🧩 Recent Projects
-
-> 📌 *This section highlights my most recent and relevant GitHub repositories.*
-
-<!-- 🔽 ADD YOUR PINNED PROJECTS BELOW 🔽 -->
-
-<!--
-<a href="https://github.com/Markspecsx/IT20_Full_code_Final_project>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME&theme=dark&hide_border=true" />
-</a>
--->
-
-<!-- 🔼 END RECENT PROJECTS 🔼 -->
-
+https://github.com/Markspecsx/IT20_Full_code_Final_project
 ---
 
 ## 🎯 Goals
