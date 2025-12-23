@@ -56,7 +56,7 @@ https://github.com/Markspecsx/Project_Screenshots
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Homepage.jpg" width="150"/><br/>
-      <b>Homepage 1</b>
+      <b>Homepage</b>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Featured%20Clubs.jpg" width="150"/><br/>
@@ -94,8 +94,7 @@ https://github.com/Markspecsx/Project_Screenshots
       <b>Graph Dashboard.</b>
     </td>
     <td align="center">
-  </tr>
-</table>
+  
 
 
 ---
