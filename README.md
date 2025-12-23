@@ -50,6 +50,53 @@ https://github.com/Markspecsx/Ellazo_Football_club_Classification_FinalProject
 ## 🖼️ Project Screenshots
 - 📱 IT20 FINAL PROJECT MOBILE APPLICATION DEVELOPMENT & IMAGE CLASSIFICATION
 https://github.com/Markspecsx/Project_Screenshots
+<h2 align="center">📸 My Photo Gallery</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/blob/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Homepage.jpg" width="150"/><br/>
+      <b>Homepage 1</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/blob/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Featured%20Clubs.jpg" width="150"/><br/>
+      <b>Featured clubs</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/blob/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Club%20Details.jpg" width="150"/><br/>
+      <b>Club Details</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/blob/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Scan%20History.jpg" width="150"/><br/>
+      <b>Scan History</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/blob/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Camera.jpg" width="150"/><br/>
+      <b>Camera</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/blob/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Gallery.jpg" width="150"/><br/>
+      <b>Gallery</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/blob/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Identified%20Scan.jpg" width="150"/><br/>
+      <b>Identified Scan</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Markspecsx/Markspecsx/blob/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Not%20Identified%20Scan.jpg" width="150"/><br/>
+      <b>Not Identified Scan</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com//Markspecsx/Markspecsx/blob/b7cad9d2f91effe51bcde731e6bb6af99dd10ea3/App_details_Screenshots/Graph_Dashboard.jpg" width="150"/><br/>
+      <b>Graph Dashboard.</b>
+    </td>
+    <td align="center">
+  </tr>
+</table>
+
 
 ---
 
