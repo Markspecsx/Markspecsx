@@ -42,6 +42,27 @@ Hello! I’m **Mark Ellazo**, an Information Technology student with a strong in
 ## 🧩 Recent Projects
 - 📱 IT20 FINAL PROJECT MOBILE APPLICATION DEVELOPMENT & IMAGE CLASSIFICATION
 https://github.com/Markspecsx/IT20_Full_code_Final_project
+## ⚽ Supported Football Clubs
+
+<div align="center">
+
+### Elite Clubs Database
+Recognizing Club Logo from top football clubs worldwide
+
+| Club | Description | Current Star Player |
+|:---|:---|:---|
+| **Real Madrid** | Spanish giants with 14 Champions League titles, known for "Galácticos" and dominant European success | **Jude Bellingham** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 |
+| **Barcelona** | Catalan club famous for La Masia academy and tiki-taka style, steeped in rich football tradition | **Robert Lewandowski** 🇵🇱 |
+| **Manchester United** | Historic English club with global fanbase, 20-time league champions and 1999 treble winners | **Bruno Fernandes** 🇵🇹 |
+| **Manchester City** | Modern powerhouse revolutionizing football under Guardiola with tactical innovation and dominance | **Erling Haaland** 🇳🇴 |
+| **Liverpool** | Anfield giants with passionate fans, famous for high-pressing "gegenpressing" and European heritage | **Mohamed Salah** 🇪🇬 |
+| **Arsenal** | North London club known for attractive attacking football and historic "Invincibles" unbeaten season | **Bukayo Saka** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 |
+| **Newcastle United** | Historic club with passionate Geordie fanbase, undergoing ambitious transformation under new ownership | **Alexander Isak** 🇸🇪 |
+| **Inter Miami** | MLS expansion club gaining global attention with high-profile signings and growing US soccer influence | **Lionel Messi** 🇦🇷 |
+| **LAFC** | MLS's modern success story with attacking style and rapid rise since 2018 expansion entry | **Denis Bouanga** 🇬🇦 |
+| **LA Galaxy** | MLS original with Hollywood appeal and history of superstar signings, 5-time MLS Cup champions | **Riqui Puig** 🇪🇸 |
+
+</div>
 
 ## 🧩 Assets & Resources
 - 📱 IT20 FINAL PROJECT MOBILE APPLICATION DEVELOPMENT & IMAGE CLASSIFICATION
